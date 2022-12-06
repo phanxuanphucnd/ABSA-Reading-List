@@ -315,6 +315,8 @@ maintained by Rui Xia, Jianfei Yu, and Hongjie Cai from Text Mining Group of Nan
 
 ### 1.12 Aspect-Opinion-Sentiment Triple Extraction
 
+1. Hao Chen, Zepeng Zhai, Fangxiang Feng, Ruifan Li, Xiaojie Wang. **Enhanced Multi-Channel Graph Convolutional Network for Aspect Sentiment Triplet Extraction**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.212.pdf) [[code]](https://github.com/CCChenhao997/EMCGCN-ASTE)
+
 1. Rajdeep Mukherjee, Tapas Nayak, Yash Butala, Sourangshu Bhattacharya, Pawan Goyal. **PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.731/) [[code]](https://github.com/rajdeep345/PASTE/)
 
 1. Hongjiang Jing, Zuchao Li, Hai Zhao, Shu Jiang. **Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.318/) 
